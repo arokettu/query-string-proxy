@@ -15,5 +15,6 @@
         }
     },
     "require": {
+        "league/uri-query-parser": "^1.0"
     }
 }

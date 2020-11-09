@@ -2,7 +2,7 @@
 
 namespace Arokettu\Uri;
 
-use League\Uri\Parser\QueryString;
+use League\Uri\QueryString;
 
 if (\false) {
     class QueryStringProxy extends QueryString

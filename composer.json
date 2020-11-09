@@ -1,0 +1,19 @@
+{
+    "name": "arokettu/query-string-proxy",
+    "description": "Interoperability proxy for QueryString from league/uri-query-parser",
+    "type": "library",
+    "license": "0BSD",
+    "authors": [
+        {
+            "name": "Anton Smirnov",
+            "email": "sandfox@sandfox.me"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Arokettu\\Uri\\": "."
+        }
+    },
+    "require": {
+    }
+}

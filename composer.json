@@ -1,14 +1,25 @@
 {
     "name": "arokettu/query-string-proxy",
     "description": "Interoperability proxy for QueryString from league/uri-query-parser",
+    "keywords": ["uri", "url", "query-builder", "compatibility"],
+    "homepage": "https://gitlab.com/sandfox/query-string-proxy",
+    "support": {
+        "source": "https://gitlab.com/sandfox/query-string-proxy",
+        "issues": "https://gitlab.com/sandfox/query-string-proxy/-/issues"
+    },
     "type": "library",
     "license": "0BSD",
     "authors": [
         {
             "name": "Anton Smirnov",
-            "email": "sandfox@sandfox.me"
+            "email": "sandfox@sandfox.me",
+            "homepage": "https://sandfox.me/",
+            "role": "developer"
         }
     ],
+    "config": {
+        "sort-packages": true
+    },
     "autoload": {
         "psr-4": {
             "Arokettu\\Uri\\": "."

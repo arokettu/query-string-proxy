@@ -2,6 +2,9 @@
 
 > ***The package is not recommended if you don't need PHP 7.1.x or PHP 8+ support, just use league packages directly***
 
+> ***The package provides install time compatibility, not runtime compatibility.
+> It may be useful for other libraries, not for end projects***
+
 A proxy class to use PHP League's QueryString class both in PHP 7.1 and PHP 8+.
 
 ## Installation

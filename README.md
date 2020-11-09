@@ -29,3 +29,13 @@ and aliases `QueryStringProxy` to `League\Uri\Parser\QueryString`.
 
 In PHP 7.2+ the package requires `league/uri-components ^2` (requires PHP 7.2, supports PHP8)
 and aliases `QueryStringProxy` to `League\Uri\QueryString`.
+
+## Dependency graphs
+
+![PHP-7.1](docs/images/php-7.1.svg)
+
+*PHP-7.1*
+
+![PHP-7.2](docs/images/php-7.2.svg)
+
+*PHP-7.2+*

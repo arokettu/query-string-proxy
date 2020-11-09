@@ -25,4 +25,4 @@ In PHP 7.1 the package requires `league/uri-query-parser ^1` (requires PHP 7.1, 
 and aliases `QueryStringProxy` to `League\Uri\Parser\QueryString`.
 
 In PHP 7.2+ the package requires `league/uri-components ^2` (requires PHP 7.2, supports PHP8)
-and aliases `QueryStringProxy` to `League\Uri\Components\QueryString`.
+and aliases `QueryStringProxy` to `League\Uri\QueryString`.
